@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">I'm Aiden from Austin!<br><br>- 🔭 I'm studying C.S. & Spanish at the University of Kansas | May 2026<br>- 📚 I'm currently exploring Next.js to improve my portfolio<br>- ⚡ In my free time I enjoy cooking, working on personal projects, and watching soccer.</p>
+<p align="left">I'm Aiden from Austin!<br><br>- 🔭 I'm studying C.S. & Spanish at the University of Kansas | May 2026<br>- 📚 I'm currently exploring APIs that I can add to improve my Next.js portfolio<br>- ⚡ In my free time I enjoy cooking, working on personal projects, and watching soccer.</p>
 
 ###
 
