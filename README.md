@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="150" src="https://aidendb-portfolio.vercel.app/_next/image?url=%2Faiden.jpeg&w=1920&q=75"  />
-</div>
-
 ###
 
 <div align="center">
